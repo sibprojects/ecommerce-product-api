@@ -29,3 +29,17 @@ Para ello, es necesario contar con los siguientes endpoint:
 Se valorará el uso de cualquier módulo que pueda ayudar a resolver el problema, la simplicidad de la resolución y la organización y la estructura del código.
 
 Para realizar la entrega, subir la prueba a cualquier repositorio (Github, Gitlab, Bitbucket) y compartirnos el enlace
+
+---
+
+## Resultado
+
+Para comenzar los comandos de ejecución:
+
+    $ composer install
+    $ symfony server:start -d
+    $ docker-compose up -d
+ 
+Interface del <a href="/api">api</a>
+
+<img src="API_Platform.png">
